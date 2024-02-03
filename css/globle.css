@@ -26,4 +26,8 @@ a {
   color: var(--link-color);
   text-decoration: none;
   font-family: "Inter" sans-serif;
+}
+
+p {
+  font-size: 1.6rem;
 }/*# sourceMappingURL=globle.css.map */
