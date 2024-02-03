@@ -1,3 +1,21 @@
 :root {
-  --my-color: red;
+  --primary-color: #5e85f5;
+  --secondary-color: #292B31;
+  --link-color: #bac2d9;
+  --border-color: #464a56;
+  --inner-panel-color: #32343c;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  background-color: #1f2023;
+  font-family: "Inter" sans-serif;
+}
+
+.wrapper {
+  margin: 2em;
 }/*# sourceMappingURL=main.css.map */
