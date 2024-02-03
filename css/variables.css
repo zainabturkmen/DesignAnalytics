@@ -1,3 +1,7 @@
 :root {
-  --my-color: red;
+  --primary-color: #5e85f5;
+  --secondary-color: #292B31;
+  --link-color: #bac2d9;
+  --border-color: #464a56;
+  --inner-panel-color: #32343c;
 }/*# sourceMappingURL=variables.css.map */
